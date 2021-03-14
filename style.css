@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.wrap{
+    width: 500px;
+    height: 400px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 10px black;
+    margin: auto;
+    /* background-image: url('./img/img.jpg');
+    background-size: cover; */
+    background: url('./img/images.jpg') no-repeat center center / cover;
+    /* background-repeat: no-repeat; */
+
+    /* padding: 10px 35px;
+    margin-bottom: 40px; */
+
+}
+/* .wrap:hover{
+    cursor: grab;
+    background: red;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    border: 3px solid green;
+}
+
+nav ul li{
+    color: red;
+    text-align: center;
+}
+h1:nth-child(even){
+    color: red;
+} */
